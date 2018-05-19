@@ -6,10 +6,6 @@ import org.junit.runner.RunWith;
 import org.springframework.test.annotation.DirtiesContext;
 
 /**
- * TODO 00 In case you use IntelliJ, be sure to mark the "java" folder under src/cucumber as Test Sources Root
- */
-
-/**
  * TODO 01 (Let's read: Some Cucumber boilerplate)
  * This is just some boilerplate code which is required to set up Cucumber within our system.
  *
